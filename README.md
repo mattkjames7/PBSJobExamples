@@ -1,6 +1,6 @@
 # Notes on submitting jobs to ALICE
 
-
+TL;DR: Copy one of these folders, `$cd` into it, add your python code to "runcode.py", edit myjob.sub to have the correct vram etc., then run `$ ./submitjob.sh`
 
 ## Templates
 
